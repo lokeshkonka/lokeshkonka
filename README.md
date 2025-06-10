@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Konka</h1>
 <h3 align="center">A passionate Web developer & Future Cyber Security Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshkonka&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshkonka" /> </p>
-
 <p align="left"> <a href="https://twitter.com/lokeshkonka25" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" /></a> </p>
 
 - 🔭 I’m currently working on [Learning On DSA in javascript](https://github.com/lokeshkonka/JS_Practice)
