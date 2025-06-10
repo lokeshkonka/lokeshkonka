@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lokeshkonka25" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" /></a> </p>
 
-- 🔭 I’m currently working on [Learning On DSA in javascript](https://github.com/lokeshkonka/JS_Practice)
+- 🔭 I’m currently working on [Learning  DSA in javascript](https://github.com/lokeshkonka/JS_Practice)
 
 - 📫 How to reach me **konkalokesh3372@gmail.coom**
 
