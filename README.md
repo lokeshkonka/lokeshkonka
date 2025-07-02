@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Learning  DSA in javascript](https://github.com/lokeshkonka/JS_Practice)
 
-- 📫 How to reach me **konkalokesh3372@gmail.coom**
+- 📫 How to reach me **konkalokesh372@gmail.coom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
