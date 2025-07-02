@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkonka&show_icons=true&locale=en&layout=compact" alt="lokeshkonka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshkonka&" alt="lokeshkonka" /></p>
+
