@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Konka</h1>
-<h3 align="center">I’m Lokesh Konka,Full-Stack Web developer passionate about building data-driven applications i.e Data Analyst</h3>
+<h3 align="center">I’m Lokesh Konka,Full-Stack Web developer passionate about building Web 3 Dapp</h3>
 
 <p align="left"> <a href="https://twitter.com/lokeshkonka25" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" /></a> </p>
 
