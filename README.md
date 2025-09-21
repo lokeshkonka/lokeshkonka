@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lokesh Konka</h1>
-<h3 align="center">I’m Lokesh Konka,Full-Stack Web developer & System Designer</h3>
+<h3 align="center">I’m Lokesh Konka,Full-Stack developer & System Designer</h3>
 
 <p align="left"> <a href="https://twitter.com/lokeshkonka25" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" /></a> </p>
 
-- 🔭 I’m currently working on [Learning  DSA in javascript](https://github.com/lokeshkonka/JS_Practice)
+- 🔭 I’m currently working on [Learning  DSA in C++](https://github.com/lokeshkonka/dsa-prac)
 
-- 📫 How to reach me **konkalokesh372@gmail.coom**
+- 📫 How to reach me **konkalokesh372@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
