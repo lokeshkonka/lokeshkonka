@@ -1,23 +1,34 @@
 <h1 align="center">Hi 👋, I'm Lokesh Konka</h1>
-<h3 align="center">I’m Lokesh Konka,Full-Stack developer & System Designer</h3>
+<h3 align="center">Software Engineer • Full-Stack Developer • System Designer</h3>
 
-<p align="left"> <a href="https://twitter.com/lokeshkonka25" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" /></a> </p>
-
-- 🔭 I’m currently working on [Learning  DSA in C++](https://github.com/lokeshkonka/dsa-prac)
-
-- 📫 How to reach me **konkalokesh372@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lokeshkonka25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lokeshkonka25" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokeshkonka25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh konka" height="30" width="40" /></a>
-<a href="https://instagram.com/your.ecg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your.ecg" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lokeshkonka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lokeshkonka" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/lokeshkonka25" target="blank">
+    <img src="https://img.shields.io/twitter/follow/lokeshkonka25?logo=twitter&style=for-the-badge" alt="lokeshkonka25" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
+### 🚀 About Me  
+- 🔭 Currently learning **DSA in C++**  
+- 💼 Passionate about **scalable systems**, **full-stack apps**, and **AI-driven services**  
+- 📫 Reach me at **konkalokesh372@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkonka&show_icons=true&locale=en&layout=compact" alt="lokeshkonka" /></p>
+---
 
+### 📬 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/lokeshkonka25" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/lokeshkonka25" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+</p>
 
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshkonka&show_icons=true&locale=en&layout=compact" alt="lokeshkonka" />
+</p>
