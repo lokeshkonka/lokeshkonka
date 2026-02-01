@@ -1,6 +1,6 @@
 # Lokesh Konka
 
-2nd-year IT student (Semester 3) focused on solidifying core engineering fundamentals and applying them through real projects.
+2nd-year IT student (Semester 4) focused on solidifying core engineering fundamentals and applying them through real projects.
 
 ## Tech Stack
 - **Backend:** MERN stack, Spring Boot
