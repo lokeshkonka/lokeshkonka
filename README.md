@@ -1,16 +1,33 @@
-# Lokesh Konka
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=600&color=FFFFFF&width=700&lines=Lokesh+Konka;Software+Developer;Backend+Engineering;Distributed+Systems"
+  alt="Typing SVG"
+/>
 
-2nd-year IT student (Semester 4) focused on solidifying core engineering fundamentals and applying them through real projects.
+#### Languages
 
-## Tech Stack
-- **Backend:** MERN stack, Spring Boot
-- **AI:** Agentic AI workflows
-- **Infrastructure:** Containerized environments, basic cloud deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,java,python" />
+</p>
 
-## Interests
-Backend systems, distributed designs, and building practical, maintainable solutions.
+ #### Links
+<p>
+  <a href="https://linkedin.com/in/lokeshkonka25">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
 
-## Connect
-- [LinkedIn](https://linkedin.com/in/lokeshkonka25)
-- [Twitter](https://twitter.com/lokeshkonka25)
-- Email: konkalokesh372@gmail.com
+  <a href="https://x.com/lokeshkonka25">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:konkalokesh372@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Z1atkXsT9b/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" />
+  </a>
+    &nbsp;&nbsp;
+</p>
