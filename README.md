@@ -1,5 +1,5 @@
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=600&color=FFFFFF&width=700&lines=Lokesh+Konka;Software+Developer;Backend+Engineering;Distributed+Systems"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=600&color=FFFFFF&width=700&lines=Lokesh+Konka;Mobile+App+Developer(React+Native);Backend+Engineering;Distributed+Systems;Software+Development"
   alt="Typing SVG"
 />
 
