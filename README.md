@@ -1,15 +1,16 @@
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=600&color=FFFFFF&width=700&lines=Lokesh+Konka;Mobile+App+Developer(React+Native);Backend+Engineering;Distributed+Systems;Software+Development"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=600&color=FFFFFF&width=800&lines=Lokesh+Konka;Mobile+App+Developer+(React+Native);Backend+Engineer;Distributed+Systems;Systems+Programming;Software+Developer"
   alt="Typing SVG"
 />
 
-#### Languages
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,java,python" />
+  <img src="https://skillicons.dev/icons?i=ts,go,rust,python" />
 </p>
 
- #### Links
+### Links
+
 <p>
   <a href="https://linkedin.com/in/lokeshkonka25">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -29,5 +30,4 @@
   <a href="https://leetcode.com/u/Z1atkXsT9b/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" />
   </a>
-    &nbsp;&nbsp;
 </p>
